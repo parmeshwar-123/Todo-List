@@ -1,0 +1,24 @@
+.App {
+  background-color: rgb(66, 66, 66);
+  min-height: 100vh;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-container {
+  margin: 70px 5rem 0;
+  height: 100%;
+}
+
+.auth-title {
+  color: #fff;
+  text-align: center;
+  position: absolute;
+  top: 13%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}

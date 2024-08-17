@@ -1,0 +1,15 @@
+.card-todos {
+    width: 80%;
+    min-width: 400px;
+    margin: 10px auto;
+    display: flex;
+    flex-direction: row !important;
+    align-items: center;
+    justify-content: space-between;
+}
+.cart-content-todos {
+    display: flex;
+    align-items: center;
+    flex-direction: row !important;
+    width: 100%;
+}
